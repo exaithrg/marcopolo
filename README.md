@@ -1,4 +1,9 @@
 # marcopolo
+
+**Our Philosophy**: **Optimize for the common case!**
+
+**NOTICE**: Use **[autojump](https://github.com/wting/autojump)** to achieve much much more powerful directory switching.
+
 save current working directory and cd you back anytime, anywhere, even if the terminal is restarted.
 
 ![image-20220910142913316](README.assets/image-20220910142913316.png)
@@ -37,9 +42,7 @@ PS: if you just want to go back to the last working directory, just use `cd -`
 
 ## TODO
 
-Support arguments, then users can use sth like `marco [-ID]` and `polo [-ID]` to save and jump between many working directories, use `marco -l` to show all saved directories and their ID.
-
-**Our Philosophy**: **optimize for the common case!**
+Support arguments, then users can use sth like `marco [-ID]` and `polo [-ID]` to save and jump between many working directories, use `marco -l` to show all saved directories and their ID. [Aborted. plz use [`autojump`](https://github.com/wting/autojump) instead]
 
 ## Bonus
 
