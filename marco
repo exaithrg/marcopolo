@@ -1,0 +1,3 @@
+#!/bin/bash
+pwd > ~/study/mit_missing/shell_lec2/exer2/lastpolo.log
+echo "Current working directory saved. Use polo to cd you back."

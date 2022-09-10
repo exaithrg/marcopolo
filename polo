@@ -1,0 +1,4 @@
+#!/bin/bash
+lastpath=$(cat /home/geng/study/mit_missing/shell_lec2/exer2/lastpolo.log)
+echo "$lastpath"
+cd "$lastpath" 
