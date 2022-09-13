@@ -1,8 +1,10 @@
 # marcopolo
 
-**Our Philosophy**: **Optimize for the common case!**
-
 **NOTICE**: Use **[autojump](https://github.com/wting/autojump)** to achieve much much more powerful directory switching.
+
+**NOTICE**: This repository is out of maintenance, please check **[ghrtools](https://github.com/njughr/ghrtools)** for the latest updates.
+
+**Our Philosophy**: **Optimize for the common case!**
 
 save current working directory and cd you back anytime, anywhere, even if the terminal is restarted.
 
